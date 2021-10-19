@@ -1,0 +1,7 @@
+import './routes/users.routes'
+import './routes/sessions.routes'
+import './routes/communicationItems.routes'
+import './routes/categoriesCategorize.routes'
+import './routes/activities.routes'
+import './routes/results.routes'
+import './routes/reports.routes'
