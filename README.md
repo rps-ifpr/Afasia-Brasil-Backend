@@ -1,7 +1,8 @@
 ## Afásico Brasil - Backend
 ![Badge](https://img.shields.io/static/v1?label=DH&message=DOSOMETHINGGREAT&color=0070f3&style=<0070f3>&logo=rocket)
 
-!([(https://www.google.com/search?q=imagem+google+play&rlz=1C1FCXM_pt-PTBR944BR944&source=lnms&tbm=isch&sa=X&sqi=2&ved=2ahUKEwips_Wd0Yj0AhXoppUCHUI7BnAQ_AUoAXoECAEQAw&biw=1163&bih=525&dpr=1.65#imgrc=2SFBep6vRXhCjM)](https://play.google.com/store/apps/details?id=com.rogeriosilva.afasicosbrasil&hl=pt))
+![Playstore](https://www.google.com/search?q=play+store+png&tbm=isch&hl=pt-BR&rlz=1C1FCXM_pt-PTBR944BR944&sa=X&ved=2ahUKEwjhwNO20oj0AhWpCLkGHdAaBmUQrNwCKAB6BQgBELUC&biw=1148&bih=525#imgrc=Q03MBuhrZOoCyM)
+
 
 ### Principais Tecnologias
 
