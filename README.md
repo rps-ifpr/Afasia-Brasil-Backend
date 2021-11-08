@@ -59,4 +59,4 @@ Certifique-se de possui um banco MySQL ou MariaDB e Redis em sua máquina para p
 
 ---
 
-Made with :blue_heart: by Daniel Hessel :wave:
+Made with :blue_heart: by Rogerio Hessel :wave:
