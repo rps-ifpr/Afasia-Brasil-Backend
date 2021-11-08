@@ -1,7 +1,7 @@
 ## Afásico Brasil - Backend
 ![Badge](https://img.shields.io/static/v1?label=DH&message=DOSOMETHINGGREAT&color=0070f3&style=<0070f3>&logo=rocket)
 
-![Afásicos Brasil](C:\IFPR2021\GITHUB\imagens\afasia.png)
+![Afásicos Brasil](imagens/afasia.png)
 
 
 ### Principais Tecnologias
