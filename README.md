@@ -1,6 +1,8 @@
 ## Afásico Brasil - Backend
 ![Badge](https://img.shields.io/static/v1?label=DH&message=DOSOMETHINGGREAT&color=0070f3&style=<0070f3>&logo=rocket)
 
+
+
 ### Principais Tecnologias
 
 - [Node.js](https://nodejs.org/en/)
