@@ -58,6 +58,7 @@ Lembre-se se verificar as informações necessárias e realizar as devidas alter
 Certifique-se de possui um banco MySQL ou MariaDB e Redis em sua máquina para poder executar o banco de dados.
 
 ---
+Como faço para acessar a base de dados do projeto?
 
 Para ter acesso ao banco de dados de produção, vamos precisar de uma ferramenta chamada **DBeaver**, uma ferramenta gratuita de banco de dados multiplataforma para desenvolvedores, administradores de banco de dados, analistas e todas as pessoas que precisam trabalhar com bancos de dados.
 
