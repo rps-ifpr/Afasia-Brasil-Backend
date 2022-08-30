@@ -1,0 +1,29 @@
+version: "3"
+
+services:
+  nginx:
+    build: ./nginx
+    container_name: nginx
+    ports:
+      - "80:80"
+    links:
+      - app
+
+  redis:
+    container_name: redis
+    image: redis
+    restart: always
+    tty: true
+    volumes:
+      - ./.docker/dbdata:/var/lib/redis
+    ports:
+      - "6379:6379"
+
+  app:
+    build: .
+    container_name: app
+    volumes:
+      - .:/usr/src/app
+    tty: true
+    ports:
+      - "3333:3333"
