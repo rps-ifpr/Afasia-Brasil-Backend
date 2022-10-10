@@ -1,0 +1,146 @@
+{
+"activities": [
+	{
+		"id" : "04830aa5-2aba-4953-9b86-0aaec4b40fce",
+		"activity_type" : "categorize",
+		"category_id" : "1f82263e-a299-41cd-9b1d-6f7af2882ef0",
+		"secondary_category" : "e8bb04fe-480c-41e9-ae9d-34d73f772169",
+		"name" : "Vestimentas e Frutas",
+		"thumbnail" : "cl8bpd6sh001h0is25wen3zpw.png",
+		"sentence" : null,
+		"created_at" : "2022-09-21 14:10:38",
+		"updated_at" : "2022-09-21 14:10:38"
+	},
+	{
+		"id" : "0b65db57-41ad-486a-81a4-28bb2dfc7a00",
+		"activity_type" : "relacione",
+		"category_id" : null,
+		"secondary_category" : null,
+		"name" : "LUGARES",
+		"thumbnail" : "cl91mpt0t004k0is2ck9r07fm.png",
+		"sentence" : null,
+		"created_at" : "2022-10-09 17:38:28",
+		"updated_at" : "2022-10-09 17:38:28"
+	},
+	{
+		"id" : "129e9755-51c0-4ed1-8694-a329ffdddba8",
+		"activity_type" : "sinonimos",
+		"category_id" : null,
+		"secondary_category" : null,
+		"name" : "FOTO",
+		"thumbnail" : "cl91n08z0005b0is28noi8wuq.png",
+		"sentence" : "SINÔNIMOS DE \"FOTO\"",
+		"created_at" : "2022-10-09 17:46:36",
+		"updated_at" : "2022-10-09 17:46:36"
+	},
+	{
+		"id" : "1ad910ae-4529-411a-8fb5-26fae64c238d",
+		"activity_type" : "relacione",
+		"category_id" : null,
+		"secondary_category" : null,
+		"name" : "CÔMODOS",
+		"thumbnail" : "cl91muovc004y0is20kbl034r.png",
+		"sentence" : null,
+		"created_at" : "2022-10-09 17:42:16",
+		"updated_at" : "2022-10-09 17:42:16"
+	},
+	{
+		"id" : "222b60a6-2148-4878-bf4d-57dd89ed20cb",
+		"activity_type" : "complemento",
+		"category_id" : null,
+		"secondary_category" : null,
+		"name" : "CAIXA ESTÁ?",
+		"thumbnail" : "cl91nz5du00700is2buuo7c3g.png",
+		"sentence" : "A CAIXA ESTÁ EM BAIXO DA MESA",
+		"created_at" : "2022-10-09 18:13:44",
+		"updated_at" : "2022-10-09 18:13:44"
+	},
+	{
+		"id" : "36bc4992-efd5-43c4-ba76-ebdee0019afe",
+		"activity_type" : "antonimos",
+		"category_id" : null,
+		"secondary_category" : null,
+		"name" : "ANTÔNIMO",
+		"thumbnail" : "cl91n3s6b005o0is2aw8l9ptc.png",
+		"sentence" : null,
+		"created_at" : "2022-10-09 17:49:20",
+		"updated_at" : "2022-10-09 17:49:20"
+	},
+	{
+		"id" : "3d2bff3b-5baa-4dad-90e3-8e5f43697a17",
+		"activity_type" : "categorize",
+		"category_id" : "2c412cbb-8b2d-413d-86fd-14bf89aa756a",
+		"secondary_category" : "9ce41f15-30b7-43f8-b59c-406f89a6da80",
+		"name" : "Corpo e Alimentos",
+		"thumbnail" : "cl8bpfeb8001l0is28zty41u1.png",
+		"sentence" : null,
+		"created_at" : "2022-09-21 14:12:21",
+		"updated_at" : "2022-09-21 14:12:21"
+	},
+	{
+		"id" : "4565c71f-792d-4341-a0c8-759f85412d3f",
+		"activity_type" : "categorize",
+		"category_id" : "c7d3390a-1c68-476c-b578-7a07d17d36e8",
+		"secondary_category" : "9b03f970-bfb2-4c51-b110-c48c68e67384",
+		"name" : "Animais e Bebidas",
+		"thumbnail" : "cl8bpeu3a001j0is25cs55skv.png",
+		"sentence" : null,
+		"created_at" : "2022-09-21 14:11:55",
+		"updated_at" : "2022-09-21 14:11:55"
+	},
+	{
+		"id" : "456c9162-10de-46dd-9b57-8295a499e0c5",
+		"activity_type" : "categorize",
+		"category_id" : "5c4e04e2-8664-4503-87f4-6a2f05bc0446",
+		"secondary_category" : "b0b472c7-d5e6-4ce3-a0fd-d9f1babcb7d5",
+		"name" : "Utensílios e Móveis",
+		"thumbnail" : "cl8bpgfdm001n0is25wb4apd2.png",
+		"sentence" : null,
+		"created_at" : "2022-09-21 14:13:09",
+		"updated_at" : "2022-09-21 14:13:09"
+	},
+	{
+		"id" : "99cedf60-a012-4502-92cf-fcffaeffdc24",
+		"activity_type" : "categorize",
+		"category_id" : "b0b472c7-d5e6-4ce3-a0fd-d9f1babcb7d5",
+		"secondary_category" : "e6c75869-c0ef-4713-aa5f-271996084405",
+		"name" : "Móveis e Flores",
+		"thumbnail" : "cl8bpb1yn001f0is26p1d93io.png",
+		"sentence" : null,
+		"created_at" : "2022-09-21 14:08:58",
+		"updated_at" : "2022-09-21 14:08:58"
+	},
+	{
+		"id" : "c0e579e6-740b-4678-94b9-d0df4afb9cbc",
+		"activity_type" : "complemento",
+		"category_id" : null,
+		"secondary_category" : null,
+		"name" : "MULHER ESTÁ?",
+		"thumbnail" : "cl91nv8ns006t0is27tiibrbt.png",
+		"sentence" : "A MULHER ESTÁ SENTADA",
+		"created_at" : "2022-10-09 18:10:41",
+		"updated_at" : "2022-10-09 18:10:41"
+	},
+	{
+		"id" : "ee5af91d-e261-412f-8189-4be08aff2450",
+		"activity_type" : "relacione",
+		"category_id" : null,
+		"secondary_category" : null,
+		"name" : "UTENSÍLIOS",
+		"thumbnail" : "cl91mkf6p00460is2h5fpa22h.png",
+		"sentence" : null,
+		"created_at" : "2022-10-09 17:34:17",
+		"updated_at" : "2022-10-09 17:34:17"
+	},
+	{
+		"id" : "ff5a1819-30c4-42db-aad3-fcc5d5751c38",
+		"activity_type" : "relacione",
+		"category_id" : null,
+		"secondary_category" : null,
+		"name" : "CORPO",
+		"thumbnail" : "cl91me9lx003l0is2ejx359ve.png",
+		"sentence" : null,
+		"created_at" : "2022-10-09 17:29:30",
+		"updated_at" : "2022-10-09 17:29:30"
+	}
+]}

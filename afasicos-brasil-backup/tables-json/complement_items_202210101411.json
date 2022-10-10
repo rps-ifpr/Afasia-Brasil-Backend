@@ -1,0 +1,83 @@
+{
+"complement_items": [
+	{
+		"id" : "167c25fe-0f36-46aa-a632-ee1236e92798",
+		"activity_id" : "222b60a6-2148-4878-bf4d-57dd89ed20cb",
+		"is_response" : 0,
+		"legend" : "CAIXA EM CIMA DA MESA",
+		"image" : "c8d8f7a0c0bf8540fb9dc846bb5c561a.png",
+		"sound" : null,
+		"created_at" : "2022-10-09 18:13:44",
+		"updated_at" : "2022-10-09 18:13:44"
+	},
+	{
+		"id" : "19d1a1d7-3be3-459f-9187-137b0b230ca7",
+		"activity_id" : "222b60a6-2148-4878-bf4d-57dd89ed20cb",
+		"is_response" : 0,
+		"legend" : "CAIXA AO LADO DA MESA",
+		"image" : "e348cdeff8ca683b4ad2dd8fdb6fa7ce.png",
+		"sound" : null,
+		"created_at" : "2022-10-09 18:13:44",
+		"updated_at" : "2022-10-09 18:13:44"
+	},
+	{
+		"id" : "28672322-51c1-435b-a44f-25195b8b0f24",
+		"activity_id" : "c0e579e6-740b-4678-94b9-d0df4afb9cbc",
+		"is_response" : 0,
+		"legend" : "MULHER DEITADA",
+		"image" : "c924590189c71d6e07be9003a3426b91.png",
+		"sound" : null,
+		"created_at" : "2022-10-09 18:10:41",
+		"updated_at" : "2022-10-09 18:10:41"
+	},
+	{
+		"id" : "4707ff46-02bf-495f-89f9-a56a51196951",
+		"activity_id" : "222b60a6-2148-4878-bf4d-57dd89ed20cb",
+		"is_response" : 0,
+		"legend" : "CAIXA AO LADO DA MESA",
+		"image" : "1973340f8a6afb76a3a687be1453abe8.png",
+		"sound" : null,
+		"created_at" : "2022-10-09 18:13:44",
+		"updated_at" : "2022-10-09 18:13:44"
+	},
+	{
+		"id" : "56157254-901f-4803-829e-3791687586df",
+		"activity_id" : "222b60a6-2148-4878-bf4d-57dd89ed20cb",
+		"is_response" : 1,
+		"legend" : "CAIXA EM BAIXO DA MESA",
+		"image" : "f28f60efd7abe8ae68003a4950822529.png",
+		"sound" : "b5e2c8f834e9418b1a62c606fb4d1754.mp3",
+		"created_at" : "2022-10-09 18:13:44",
+		"updated_at" : "2022-10-09 18:13:44"
+	},
+	{
+		"id" : "56bfcebd-6e11-4e87-8025-cd49e8599d37",
+		"activity_id" : "c0e579e6-740b-4678-94b9-d0df4afb9cbc",
+		"is_response" : 1,
+		"legend" : "MULHER SENTADA",
+		"image" : "177167b0eed1228e584aa5702609d642.png",
+		"sound" : "38e49257e2aecf321baca7aca1cd253f.mp3",
+		"created_at" : "2022-10-09 18:10:41",
+		"updated_at" : "2022-10-09 18:10:41"
+	},
+	{
+		"id" : "800a21a8-6765-46fd-b2fe-e8a29a6fa41b",
+		"activity_id" : "c0e579e6-740b-4678-94b9-d0df4afb9cbc",
+		"is_response" : 0,
+		"legend" : "MULHER DANÇANDO",
+		"image" : "fa767293c9a0de57fb0de63fb582e393.png",
+		"sound" : null,
+		"created_at" : "2022-10-09 18:10:41",
+		"updated_at" : "2022-10-09 18:10:41"
+	},
+	{
+		"id" : "bd4a6a03-8567-4ba4-bf4e-8557ce27b4af",
+		"activity_id" : "c0e579e6-740b-4678-94b9-d0df4afb9cbc",
+		"is_response" : 0,
+		"legend" : "MULHER EM PÉ",
+		"image" : "1b465e44fae6e1766488b031b6859b20.png",
+		"sound" : null,
+		"created_at" : "2022-10-09 18:10:41",
+		"updated_at" : "2022-10-09 18:10:41"
+	}
+]}

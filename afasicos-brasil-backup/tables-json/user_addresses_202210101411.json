@@ -1,0 +1,123 @@
+{
+"user_addresses": [
+	{
+		"id" : "151593a2-18f9-4c65-a3fc-5bff7b9c1f10",
+		"user_id" : "9b1fc8d2-d505-4620-b237-53cbb1b942bf",
+		"place" : "Praça Cleriston Andrade ",
+		"district" : "Avenida ",
+		"uf" : "BA",
+		"city" : "Pilão Arcado ",
+		"created_at" : "2022-09-21 16:25:10",
+		"updated_at" : "2022-09-21 16:25:10"
+	},
+	{
+		"id" : "26e03ba5-2420-409b-b4e3-013e553d6e2b",
+		"user_id" : "94c85065-b361-4b04-aabd-beaae26feadb",
+		"place" : "Travessa Andrelino Viana Da Silva ",
+		"district" : "Chácara Do Paraíso ",
+		"uf" : "RJ",
+		"city" : "Nova Friburgo ",
+		"created_at" : "2022-10-07 21:00:34",
+		"updated_at" : "2022-10-07 21:00:34"
+	},
+	{
+		"id" : "2c4262df-9308-43b9-8e41-06dfcb88f3ad",
+		"user_id" : "bf1ce090-0182-49be-b74f-afc34fa8d5d0",
+		"place" : "Av. Brigadeiro Faria Lima, 3477",
+		"district" : "Itaim Bibi",
+		"uf" : "SP",
+		"city" : "São Paulo",
+		"created_at" : "2022-08-30 10:12:27",
+		"updated_at" : "2022-08-30 10:12:27"
+	},
+	{
+		"id" : "64019b12-94df-4316-becd-4d1ae507e3f5",
+		"user_id" : "aa3832c4-0570-4f1d-927b-b6be556b452f",
+		"place" : "Rua José De Figueiredo ",
+		"district" : "Barra",
+		"uf" : "RJ",
+		"city" : "Rio De Janeiro",
+		"created_at" : "2022-09-22 21:36:28",
+		"updated_at" : "2022-09-22 21:36:28"
+	},
+	{
+		"id" : "6b9abae7-2f8d-4691-8d94-335743341454",
+		"user_id" : "d80ddd99-cfee-47a8-930b-7e83b1ede1b1",
+		"place" : "Rua Teste",
+		"district" : "Teste",
+		"uf" : "TS",
+		"city" : "Reste",
+		"created_at" : "2022-09-07 20:02:24",
+		"updated_at" : "2022-09-07 20:02:24"
+	},
+	{
+		"id" : "915db922-2455-4ff5-a612-fc65ca49d02f",
+		"user_id" : "1de51990-e982-472d-a946-3b70c060f196",
+		"place" : "Rua Raimundo mendes de carvalho ",
+		"district" : "Iacarai",
+		"uf" : "CE",
+		"city" : "Caucaia",
+		"created_at" : "2022-10-03 10:20:50",
+		"updated_at" : "2022-10-03 10:20:50"
+	},
+	{
+		"id" : "a16ca4a5-cfb1-4e2b-917d-6088819813f7",
+		"user_id" : "874f3938-2007-45fb-9128-67e7873551ce",
+		"place" : "Av. Brigadeiro Faria Lima, 3477",
+		"district" : "Itaim Bibi",
+		"uf" : "SP",
+		"city" : "São Paulo",
+		"created_at" : "2022-08-30 16:46:16",
+		"updated_at" : "2022-08-30 16:46:16"
+	},
+	{
+		"id" : "a2f6c257-3463-4230-afa0-80702a5a8261",
+		"user_id" : "6748c0d3-96a3-45fd-a8b2-97d09f068711",
+		"place" : "Av. Brigadeiro Faria Lima, 3477",
+		"district" : "Itaim Bibi",
+		"uf" : "SP",
+		"city" : "São Paulo",
+		"created_at" : "2022-08-30 10:15:47",
+		"updated_at" : "2022-08-30 10:15:47"
+	},
+	{
+		"id" : "ad7c6ad2-a5cc-4614-8a8e-7151d06f73df",
+		"user_id" : "be02835e-4705-46a8-b6e2-1fc3820d9e3b",
+		"place" : "Rua Pacheco  Rocha 51",
+		"district" : "Bento Ribeiro ",
+		"uf" : "RJ",
+		"city" : "Rio De Janeiro ",
+		"created_at" : "2022-09-01 21:46:53",
+		"updated_at" : "2022-09-01 21:46:53"
+	},
+	{
+		"id" : "b0df2873-371d-4a6f-8fc7-674d8afb1ddb",
+		"user_id" : "0e7e0dc0-e30a-42fa-930a-4d942c91ebea",
+		"place" : "Avenida Winston Churchill ",
+		"district" : "Rudge Ramos ",
+		"uf" : "SP",
+		"city" : "São Bernardo do Campo ",
+		"created_at" : "2022-09-20 10:13:22",
+		"updated_at" : "2022-09-20 10:13:22"
+	},
+	{
+		"id" : "c7152ad5-2ee3-4517-8629-6fe8627042ce",
+		"user_id" : "801a484f-84be-40be-b6f4-324783549e0a",
+		"place" : "Rua Luís Pelegrini 169",
+		"district" : "Vila Suíça ",
+		"uf" : "SP",
+		"city" : "Ribeirão Pires ",
+		"created_at" : "2022-10-03 03:21:05",
+		"updated_at" : "2022-10-03 03:21:05"
+	},
+	{
+		"id" : "dd9223de-c255-43db-b08b-a746e7f7d8e0",
+		"user_id" : "bc394011-6a3b-41f7-9811-d2b0a71294c0",
+		"place" : "Rua Emília De Ribeiro 95",
+		"district" : "Bento Ribeiro ",
+		"uf" : "RJ",
+		"city" : "Rio de Janeiro ",
+		"created_at" : "2022-09-20 23:45:42",
+		"updated_at" : "2022-09-20 23:45:42"
+	}
+]}

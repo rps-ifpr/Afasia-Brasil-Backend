@@ -1,0 +1,75 @@
+{
+"adonis_schema": [
+	{
+		"id" : 1,
+		"name" : "database\/migrations\/1631703581830_users",
+		"batch" : 1,
+		"migration_time" : "2022-08-29 23:38:36"
+	},
+	{
+		"id" : 2,
+		"name" : "database\/migrations\/1631703581834_api_tokens",
+		"batch" : 1,
+		"migration_time" : "2022-08-29 23:38:38"
+	},
+	{
+		"id" : 3,
+		"name" : "database\/migrations\/1631704651557_user_addresses",
+		"batch" : 1,
+		"migration_time" : "2022-08-29 23:38:40"
+	},
+	{
+		"id" : 4,
+		"name" : "database\/migrations\/1631724964543_categories",
+		"batch" : 1,
+		"migration_time" : "2022-08-29 23:38:41"
+	},
+	{
+		"id" : 5,
+		"name" : "database\/migrations\/1631725338177_communication_items",
+		"batch" : 1,
+		"migration_time" : "2022-08-29 23:38:42"
+	},
+	{
+		"id" : 6,
+		"name" : "database\/migrations\/1632230181630_activities",
+		"batch" : 1,
+		"migration_time" : "2022-08-29 23:38:44"
+	},
+	{
+		"id" : 7,
+		"name" : "database\/migrations\/1632243527181_results",
+		"batch" : 1,
+		"migration_time" : "2022-08-29 23:38:46"
+	},
+	{
+		"id" : 8,
+		"name" : "database\/migrations\/1632963231731_categorize_items",
+		"batch" : 1,
+		"migration_time" : "2022-08-29 23:38:47"
+	},
+	{
+		"id" : 9,
+		"name" : "database\/migrations\/1632964105794_antonyms_items",
+		"batch" : 1,
+		"migration_time" : "2022-08-29 23:38:50"
+	},
+	{
+		"id" : 10,
+		"name" : "database\/migrations\/1633005332617_relate_items",
+		"batch" : 1,
+		"migration_time" : "2022-08-29 23:38:53"
+	},
+	{
+		"id" : 11,
+		"name" : "database\/migrations\/1633005510929_synonym_items",
+		"batch" : 1,
+		"migration_time" : "2022-08-29 23:38:54"
+	},
+	{
+		"id" : 12,
+		"name" : "database\/migrations\/1633024597613_complement_items",
+		"batch" : 1,
+		"migration_time" : "2022-08-29 23:38:56"
+	}
+]}

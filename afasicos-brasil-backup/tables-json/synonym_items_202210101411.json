@@ -1,0 +1,53 @@
+{
+"synonym_items": [
+	{
+		"id" : "2b0324e9-1d4f-414c-8fdf-482ca8768e22",
+		"activity_id" : "129e9755-51c0-4ed1-8694-a329ffdddba8",
+		"is_response" : 1,
+		"legend" : "PAISAGEM",
+		"image" : "7e38f5be1bc8f2da9ca7f1c21abe5f18.png",
+		"sound" : "81226195ef82fd9cdc26f3627d68879f.mp3",
+		"created_at" : "2022-10-09 17:48:10",
+		"updated_at" : "2022-10-09 17:48:10"
+	},
+	{
+		"id" : "5da04f61-9f3f-4c23-b1b8-ec03dd937ac6",
+		"activity_id" : "129e9755-51c0-4ed1-8694-a329ffdddba8",
+		"is_response" : 1,
+		"legend" : "FOTÓGRAFA",
+		"image" : "6513655d717cba6473a99a3d45a5e5d5.png",
+		"sound" : "09497dd9c665035102d0974e0ea77582.mp3",
+		"created_at" : "2022-10-09 17:48:10",
+		"updated_at" : "2022-10-09 17:48:10"
+	},
+	{
+		"id" : "5e367f06-10d9-47cb-be3b-9300317a9adc",
+		"activity_id" : "129e9755-51c0-4ed1-8694-a329ffdddba8",
+		"is_response" : 1,
+		"legend" : "RETRATO",
+		"image" : "7cb74d265beaf192d7bf00d6ac9a68f1.png",
+		"sound" : "ce93d8f5e3d5ecca1581c7dd5d67a2b5.mp3",
+		"created_at" : "2022-10-09 17:48:10",
+		"updated_at" : "2022-10-09 17:48:10"
+	},
+	{
+		"id" : "d9a4ce42-ef5a-4c0f-9f30-2185510b4298",
+		"activity_id" : "129e9755-51c0-4ed1-8694-a329ffdddba8",
+		"is_response" : 0,
+		"legend" : "ARQUITETURA",
+		"image" : "3ac8b18c2ecae9a2d9075534b0b0a119.png",
+		"sound" : "dcabee814d4eaef75bea797e2534e2a0.mp3",
+		"created_at" : "2022-10-09 17:48:10",
+		"updated_at" : "2022-10-09 17:48:10"
+	},
+	{
+		"id" : "e437e092-997b-4729-b169-87b8dc2e2294",
+		"activity_id" : "129e9755-51c0-4ed1-8694-a329ffdddba8",
+		"is_response" : 0,
+		"legend" : "GRÁFICO",
+		"image" : "c99c2e04617b2c7a21c145733fe313c2.png",
+		"sound" : "35b82df2239b51bbe5345e6a3b35c1a6.mp3",
+		"created_at" : "2022-10-09 17:48:10",
+		"updated_at" : "2022-10-09 17:48:10"
+	}
+]}

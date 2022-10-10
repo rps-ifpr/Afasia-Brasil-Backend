@@ -1,0 +1,57 @@
+{
+"categories": [
+	{
+		"id" : "1f82263e-a299-41cd-9b1d-6f7af2882ef0",
+		"name" : "VESTIMENTAS",
+		"created_at" : "2022-09-21 13:50:29",
+		"updated_at" : "2022-09-21 13:50:29"
+	},
+	{
+		"id" : "2c412cbb-8b2d-413d-86fd-14bf89aa756a",
+		"name" : "CORPO",
+		"created_at" : "2022-09-21 13:58:40",
+		"updated_at" : "2022-09-21 13:58:40"
+	},
+	{
+		"id" : "5c4e04e2-8664-4503-87f4-6a2f05bc0446",
+		"name" : "UTENSÍLIOS",
+		"created_at" : "2022-09-21 14:02:38",
+		"updated_at" : "2022-09-21 14:02:38"
+	},
+	{
+		"id" : "9b03f970-bfb2-4c51-b110-c48c68e67384",
+		"name" : "BEBIDAS",
+		"created_at" : "2022-09-21 13:56:35",
+		"updated_at" : "2022-09-21 13:56:35"
+	},
+	{
+		"id" : "9ce41f15-30b7-43f8-b59c-406f89a6da80",
+		"name" : "ALIMENTOS",
+		"created_at" : "2022-09-21 14:00:25",
+		"updated_at" : "2022-09-21 14:00:25"
+	},
+	{
+		"id" : "b0b472c7-d5e6-4ce3-a0fd-d9f1babcb7d5",
+		"name" : "MÓVEIS",
+		"created_at" : "2022-09-21 13:34:12",
+		"updated_at" : "2022-09-21 13:34:12"
+	},
+	{
+		"id" : "c7d3390a-1c68-476c-b578-7a07d17d36e8",
+		"name" : "ANIMAIS",
+		"created_at" : "2022-09-21 13:53:38",
+		"updated_at" : "2022-09-21 13:53:38"
+	},
+	{
+		"id" : "e6c75869-c0ef-4713-aa5f-271996084405",
+		"name" : "FLORES",
+		"created_at" : "2022-09-21 13:47:20",
+		"updated_at" : "2022-09-21 13:47:20"
+	},
+	{
+		"id" : "e8bb04fe-480c-41e9-ae9d-34d73f772169",
+		"name" : "FRUTAS",
+		"created_at" : "2022-09-21 13:52:20",
+		"updated_at" : "2022-09-21 13:52:20"
+	}
+]}

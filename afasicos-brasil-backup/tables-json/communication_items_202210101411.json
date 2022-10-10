@@ -1,0 +1,84 @@
+{
+"communication_items": [
+	{
+		"id" : "22249089-48e3-4c7f-87da-b5e7ed94aa43",
+		"i_want" : 0,
+		"legend" : "NÃO",
+		"image" : "cl8a9wfns00060jo897eg7vi7.png",
+		"sound" : "cl8a9wfnx00070jo8403veqrp.mp3",
+		"created_at" : "2022-09-20 14:09:56",
+		"updated_at" : "2022-09-20 14:09:56"
+	},
+	{
+		"id" : "2fb74f1b-ae34-48e3-93aa-1a2eae7ef9c8",
+		"i_want" : 1,
+		"legend" : "ÁGUA",
+		"image" : "cl8bmq2s3000v0jo8do9ta1vc.jpg",
+		"sound" : "cl8bmq2s4000w0jo89yot5pp0.mp3",
+		"created_at" : "2022-09-21 12:56:40",
+		"updated_at" : "2022-09-21 12:56:40"
+	},
+	{
+		"id" : "7a626daa-8b7d-4dda-9b28-4fb202a24fe7",
+		"i_want" : 1,
+		"legend" : "CONVERSAR",
+		"image" : "cl8bmtvvl001b0jo87jkih0vj.jpg",
+		"sound" : "cl8bmtvvm001c0jo8cftoc411.mp3",
+		"created_at" : "2022-09-21 12:59:38",
+		"updated_at" : "2022-09-21 12:59:38"
+	},
+	{
+		"id" : "988c79f2-956c-4ca4-a284-d7c7d4669746",
+		"i_want" : 1,
+		"legend" : "CAMINHAR",
+		"image" : "cl8bmsgnt00130jo84dp3hks7.jpg",
+		"sound" : "cl8bmsgnv00140jo8fpckc03m.mp3",
+		"created_at" : "2022-09-21 12:58:32",
+		"updated_at" : "2022-09-21 12:58:32"
+	},
+	{
+		"id" : "ab3c2ba3-49c6-4ffb-99dc-584743880012",
+		"i_want" : 1,
+		"legend" : "BANHEIRO",
+		"image" : "cl8bmtam400170jo8dgb1baam.png",
+		"sound" : "cl8bmtam900180jo85foj8m4t.mp3",
+		"created_at" : "2022-09-21 12:59:10",
+		"updated_at" : "2022-09-21 12:59:10"
+	},
+	{
+		"id" : "b3620069-cf37-485a-bfc2-2c29c08c20ab",
+		"i_want" : 0,
+		"legend" : "SIM",
+		"image" : "cl84uoc4600020jo85xew7h5q.png",
+		"sound" : "cl84uoc4d00030jo8dgug7in7.mp3",
+		"created_at" : "2022-09-16 19:04:53",
+		"updated_at" : "2022-09-16 19:04:53"
+	},
+	{
+		"id" : "d048fe5c-ee64-4fb6-9e14-10618f7777f2",
+		"i_want" : 1,
+		"legend" : "COMER",
+		"image" : "cl8bmre9o000z0jo805fn4tfa.jpg",
+		"sound" : "cl8bmre9q00100jo8az8ohw78.mp3",
+		"created_at" : "2022-09-21 12:57:42",
+		"updated_at" : "2022-09-21 12:57:42"
+	},
+	{
+		"id" : "dc124777-4ad8-4e44-bc2e-6137108b08f1",
+		"i_want" : 1,
+		"legend" : "DORMIR",
+		"image" : "cl8bmuery001f0jo8c4syfauq.jpg",
+		"sound" : "cl8bmues1001g0jo8ecjl3e8p.mp3",
+		"created_at" : "2022-09-21 13:00:03",
+		"updated_at" : "2022-09-21 13:00:03"
+	},
+	{
+		"id" : "f374053e-7588-430f-b357-a0699189d7e2",
+		"i_want" : 0,
+		"legend" : "TALVEZ",
+		"image" : "cl8a9z4ol000j0jo8b4pe3nuc.png",
+		"sound" : "cl8a9z4on000k0jo82kpg12et.mp3",
+		"created_at" : "2022-09-20 14:12:02",
+		"updated_at" : "2022-09-20 14:12:02"
+	}
+]}

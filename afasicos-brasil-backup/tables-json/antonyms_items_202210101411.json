@@ -1,0 +1,103 @@
+{
+"antonyms_items": [
+	{
+		"id" : "10456cad-2e1e-44ed-98cf-8706ea9d2a62",
+		"activity_id" : "36bc4992-efd5-43c4-ba76-ebdee0019afe",
+		"pair_id" : "1dff6719-f937-40ff-b04d-2f1fba86c234",
+		"legend" : "FLOR BRANCA",
+		"image" : "f2cbe74bc26aeebaa1130bd7c7a3205a.png",
+		"sound" : "18e4e926fd380acd90c3d488780ae61a.mp3",
+		"created_at" : "2022-10-09 17:54:39",
+		"updated_at" : "2022-10-09 17:54:39"
+	},
+	{
+		"id" : "1b7ce1fa-56d7-4c96-8565-2d872a68aff3",
+		"activity_id" : "36bc4992-efd5-43c4-ba76-ebdee0019afe",
+		"pair_id" : "c96b0f86-87dd-424e-8b20-303900e38e77",
+		"legend" : "PESADO ",
+		"image" : "1d04ea546f78ce78303a85de8af8255c.png",
+		"sound" : "d92ec3987945ce501f0ef8090c98d3f7.mp3",
+		"created_at" : "2022-10-09 17:56:45",
+		"updated_at" : "2022-10-09 17:56:45"
+	},
+	{
+		"id" : "1dff6719-f937-40ff-b04d-2f1fba86c234",
+		"activity_id" : "36bc4992-efd5-43c4-ba76-ebdee0019afe",
+		"pair_id" : "10456cad-2e1e-44ed-98cf-8706ea9d2a62",
+		"legend" : "FLOR ESCURA",
+		"image" : "866230f8b67aa50b7977a4697889a361.png",
+		"sound" : "7479e3450bdfa5cd60324baf9c4437ef.mp3",
+		"created_at" : "2022-10-09 17:54:39",
+		"updated_at" : "2022-10-09 17:54:39"
+	},
+	{
+		"id" : "2f231591-2f53-492c-b29a-c79744b63f0d",
+		"activity_id" : "36bc4992-efd5-43c4-ba76-ebdee0019afe",
+		"pair_id" : "e8202cd2-32fa-498b-a9fe-b8d583b44fe5",
+		"legend" : "NEGATIVO",
+		"image" : "f713628d2ea23497b1e4696ae1ce024d.png",
+		"sound" : "11b385d0fc5e89affd70e07d3735b448.mp3",
+		"created_at" : "2022-10-09 17:55:36",
+		"updated_at" : "2022-10-09 17:55:36"
+	},
+	{
+		"id" : "5c324e1f-fff9-499a-973f-640799164bc8",
+		"activity_id" : "36bc4992-efd5-43c4-ba76-ebdee0019afe",
+		"pair_id" : "be124d58-e161-446a-8f80-e29ebd3f919b",
+		"legend" : "MAGRO ",
+		"image" : "65c301bba6f4989c25129d3560d2283d.png",
+		"sound" : "d65bfdcf8963ab9609beb91d7920a42f.mp3",
+		"created_at" : "2022-10-09 17:57:49",
+		"updated_at" : "2022-10-09 17:57:49"
+	},
+	{
+		"id" : "6d699c3c-850f-4f1c-a751-b260e1cda778",
+		"activity_id" : "36bc4992-efd5-43c4-ba76-ebdee0019afe",
+		"pair_id" : "9f6a6287-a13f-4b89-9a77-190108b6f402",
+		"legend" : "CAIXA FECHADA",
+		"image" : "78b75a25fb75fbb2b05f93048396200c.png",
+		"sound" : "84139579b82e5410626b5266ebe8823d.mp3",
+		"created_at" : "2022-10-09 17:51:58",
+		"updated_at" : "2022-10-09 17:51:58"
+	},
+	{
+		"id" : "9f6a6287-a13f-4b89-9a77-190108b6f402",
+		"activity_id" : "36bc4992-efd5-43c4-ba76-ebdee0019afe",
+		"pair_id" : "6d699c3c-850f-4f1c-a751-b260e1cda778",
+		"legend" : "CAIXA ABERTA",
+		"image" : "13b1bf51a3904d93f028493c186b620c.png",
+		"sound" : "079c09098254d37179a797f98e22ab32.mp3",
+		"created_at" : "2022-10-09 17:51:58",
+		"updated_at" : "2022-10-09 17:51:58"
+	},
+	{
+		"id" : "be124d58-e161-446a-8f80-e29ebd3f919b",
+		"activity_id" : "36bc4992-efd5-43c4-ba76-ebdee0019afe",
+		"pair_id" : "5c324e1f-fff9-499a-973f-640799164bc8",
+		"legend" : "GORDO",
+		"image" : "ec7790d6406f2346ddf458fca298c69a.png",
+		"sound" : "f6cfc7f36e27aad01d2dfee33a29bdb9.mp3",
+		"created_at" : "2022-10-09 17:57:49",
+		"updated_at" : "2022-10-09 17:57:49"
+	},
+	{
+		"id" : "c96b0f86-87dd-424e-8b20-303900e38e77",
+		"activity_id" : "36bc4992-efd5-43c4-ba76-ebdee0019afe",
+		"pair_id" : "1b7ce1fa-56d7-4c96-8565-2d872a68aff3",
+		"legend" : "LEVE",
+		"image" : "376b0329d10a151ca5198330ff078020.png",
+		"sound" : "2a554c9734cf1b519a832e130d53d049.mp3",
+		"created_at" : "2022-10-09 17:56:45",
+		"updated_at" : "2022-10-09 17:56:45"
+	},
+	{
+		"id" : "e8202cd2-32fa-498b-a9fe-b8d583b44fe5",
+		"activity_id" : "36bc4992-efd5-43c4-ba76-ebdee0019afe",
+		"pair_id" : "2f231591-2f53-492c-b29a-c79744b63f0d",
+		"legend" : "POSITIVO",
+		"image" : "021a68da9c9fba2fc5b367a496c3b3b3.png",
+		"sound" : "08e229ee74622b390d0dbb400ec03515.mp3",
+		"created_at" : "2022-10-09 17:55:36",
+		"updated_at" : "2022-10-09 17:55:36"
+	}
+]}
